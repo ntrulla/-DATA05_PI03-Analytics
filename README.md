@@ -17,7 +17,7 @@ Esta nueva realidad obliga a pensar en términos de bienestar digital y a conver
 El despliegue de infraestructura es condición necesaria (aunque no suficiente), para el desarrollo de industrias de alto contenido tecnológico que promueva la diversificación productiva y la difusión de saberes, influyendo cotidianamente en los habitantes, los negocios y las empresas.
 Aunque Argentina está a la vanguardia del desarrollo de las telecomunicaciones, teniendo para el 2020 un total de [62,12 millones conexiones](https://www.datosmundial.com/america/argentina/telecomunicacion.php) aún queda mucho trabajo por hacer!
 
-### Objetivo del análisis
+### **Objetivo del análisis**
 
 El objeto de este trabajo es analizar brevemente la evolución del mercado, sus procesos de transformación, la estructura de su situación actual, tratando de comprender el impacto generado por la pandemia, describir el estado de la industria pos pandemia y proyectar los principales desafíos que se plantean en el futuro cercano, en torno a las redes necesarias y su impacto en la sociedad. Para poder logarlo, vamos a:
 
@@ -85,7 +85,7 @@ Segmentación de datos: Todos los gráficos están filtrados por año, trimestre
 
 Tarjetas: Para el armado de los KPI´s.
 
-**Conclusiones**
+### **Conclusiones**
 
 El acceso a Internet fijo, ha aumentado progresivamente desde el año 2014 y se ha acrecentado especialmente en los últimos años. De todas formas, la pandemia del COVID-19 puso en relieve la importancia que tienen las redes de telecomunicaciones ya que contrarrestaron los efectos del aislamiento, difundieron y administraron las medidas de cuidado, posibilitaron la continuidad laboral, facilitaron el funcionamiento económico y dieron soporte al funcionamiento del estado.
 Aunque la penetración de Internet fijo por cada 100 hogares fue en aumento, según el análisis realizado, en algunas provincias como: Buenos Aires, Córdoba, San Luis, La Pampa y Rio Negro. Entre los promedios más bajos se encuentran Formosa, La Rioja, Jujuy, Santa Cruz, Tierra del Fuego Y Santiago del Estero. Aún sigue siendo dispar la situación de las provincias en Argentina. Facilitar el acceso a internet en estas regiones, así como también mejorar la velocidad de bajada (es decir la calidad de internet) para que el servicio sea mejor en todo el país es una oportunidad para la empresa.
