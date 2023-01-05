@@ -6,7 +6,7 @@
 
 ¡Bienvenidos!  En esta ocasión, como ***Data Analyst*** realice un **análisis** completo que me permitió reconocer el comportamiento del sector a nivel nacional.
 
-<img src = 'https://user-images.githubusercontent.com/100374777/210778208-be2b22e0-105b-4eb8-93b8-98ae197cbdad.jpeg' height = 200>
+   <img src = 'https://user-images.githubusercontent.com/100374777/210778208-be2b22e0-105b-4eb8-93b8-98ae197cbdad.jpeg' height = 500>
 
 
 ### **Introducción**
