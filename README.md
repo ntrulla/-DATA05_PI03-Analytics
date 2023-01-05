@@ -6,7 +6,7 @@
 
 ¡Bienvenidos!  En esta ocasión, como ***Data Analyst*** realice un **análisis** completo que me permitió reconocer el comportamiento del sector a nivel nacional.
 
-(https://user-images.githubusercontent.com/100374777/210778208-be2b22e0-105b-4eb8-93b8-98ae197cbdad.jpeg)
+ https://user-images.githubusercontent.com/100374777/210778208-be2b22e0-105b-4eb8-93b8-98ae197cbdad.jpeg 
 
 
 ### **Introducción**
@@ -71,13 +71,18 @@ KPI´s
 	Promedio o velocidad media de bajada por provincia.
 
 Elección de los gráficos
+
 Gráfico de líneas: Fueron seleccionados para el análisis de la evolución de los datos en el paso del tiempo, así como para realizar una comparación entre los distintos ítems:
 	Suma de Accesos por cada 100 hogares por año y trimestre.
 	Accesos a Internet fijo por tecnología y provincia por año y trimestre.
 	Tecnologías usadas en cada provincia.
+
 Gráfico de Barras: Utilizado para ver el acceso a internet fijo por rango de velocidad de bajada y por provincia y así poder comparar las distintas tecnologías.
+
 Mapa de Argentina: Se importó un mapa externo de Argentina con extensión .Json con el objetivo de visualizar geográficamente los datos por provincia analizados en todas las tablas.
+
 Segmentación de datos: Todos los gráficos están filtrados por año, trimestre.
+
 Tarjetas: Para el armado de los KPI´s.
 
 **Conclusiones**
